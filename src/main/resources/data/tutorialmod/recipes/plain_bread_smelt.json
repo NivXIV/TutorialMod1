@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:wheat"
+  },
+  "result": "tutorialmod:plain_bread",
+  "experience": 1.0,
+  "cookingtime": 200
+}

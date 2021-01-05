@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "wxw",
+    "xxx",
+    "wxw"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "tutorialmod:plain_bread"
+    },
+    "w":
+    {
+      "item": "minecraft:oak_log"
+    }
+  },
+
+
+  "result":
+    {
+      "item": "tutorialmod:bread_maker",
+      "count": 1
+    }
+  }
